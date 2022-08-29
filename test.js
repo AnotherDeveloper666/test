@@ -4,3 +4,5 @@ function Test(){
 }
 
 Test();
+
+console.log("Test File");
